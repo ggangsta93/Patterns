@@ -1,0 +1,6 @@
+C:\Users\Javier Arias\source\repos\Bridge03\Bridge03\bin\Debug\Bridge03.exe.config
+C:\Users\Javier Arias\source\repos\Bridge03\Bridge03\bin\Debug\Bridge03.exe
+C:\Users\Javier Arias\source\repos\Bridge03\Bridge03\bin\Debug\Bridge03.pdb
+C:\Users\Javier Arias\source\repos\Bridge03\Bridge03\obj\Debug\Bridge03.exe
+C:\Users\Javier Arias\source\repos\Bridge03\Bridge03\obj\Debug\Bridge03.pdb
+C:\Users\Javier Arias\source\repos\Bridge03\Bridge03\obj\Debug\Bridge03.csprojAssemblyReference.cache

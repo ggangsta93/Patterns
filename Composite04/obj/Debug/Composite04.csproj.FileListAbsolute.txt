@@ -1,0 +1,6 @@
+C:\Users\Javier Arias\source\repos\Composite04\Composite04\bin\Debug\Composite04.exe.config
+C:\Users\Javier Arias\source\repos\Composite04\Composite04\bin\Debug\Composite04.exe
+C:\Users\Javier Arias\source\repos\Composite04\Composite04\bin\Debug\Composite04.pdb
+C:\Users\Javier Arias\source\repos\Composite04\Composite04\obj\Debug\Composite04.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\Composite04\Composite04\obj\Debug\Composite04.exe
+C:\Users\Javier Arias\source\repos\Composite04\Composite04\obj\Debug\Composite04.pdb

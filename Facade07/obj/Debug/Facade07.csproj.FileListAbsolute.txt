@@ -1,0 +1,6 @@
+C:\Users\Javier Arias\source\repos\Patterns\Facade07\obj\Debug\Facade07.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\Patterns\Facade07\bin\Debug\Facade07.exe.config
+C:\Users\Javier Arias\source\repos\Patterns\Facade07\bin\Debug\Facade07.exe
+C:\Users\Javier Arias\source\repos\Patterns\Facade07\bin\Debug\Facade07.pdb
+C:\Users\Javier Arias\source\repos\Patterns\Facade07\obj\Debug\Facade07.exe
+C:\Users\Javier Arias\source\repos\Patterns\Facade07\obj\Debug\Facade07.pdb

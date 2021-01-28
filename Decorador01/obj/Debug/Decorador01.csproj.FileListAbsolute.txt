@@ -1,0 +1,6 @@
+C:\Users\Javier Arias\source\repos\Patterns\Decorador01\bin\Debug\Decorador01.exe.config
+C:\Users\Javier Arias\source\repos\Patterns\Decorador01\bin\Debug\Decorador01.exe
+C:\Users\Javier Arias\source\repos\Patterns\Decorador01\bin\Debug\Decorador01.pdb
+C:\Users\Javier Arias\source\repos\Patterns\Decorador01\obj\Debug\Decorador01.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\Patterns\Decorador01\obj\Debug\Decorador01.exe
+C:\Users\Javier Arias\source\repos\Patterns\Decorador01\obj\Debug\Decorador01.pdb

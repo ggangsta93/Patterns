@@ -1,0 +1,6 @@
+C:\Users\Javier Arias\source\repos\Patterns\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\Javier Arias\source\repos\Patterns\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\Javier Arias\source\repos\Patterns\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\Javier Arias\source\repos\Patterns\Flyweight\obj\Debug\Flyweight05.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\Patterns\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\Javier Arias\source\repos\Patterns\Flyweight\obj\Debug\Flyweight.pdb

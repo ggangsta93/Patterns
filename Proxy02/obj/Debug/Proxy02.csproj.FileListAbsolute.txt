@@ -1,0 +1,6 @@
+C:\Users\Javier Arias\source\repos\Patterns\Proxy02\bin\Debug\Proxy02.exe.config
+C:\Users\Javier Arias\source\repos\Patterns\Proxy02\bin\Debug\Proxy02.exe
+C:\Users\Javier Arias\source\repos\Patterns\Proxy02\bin\Debug\Proxy02.pdb
+C:\Users\Javier Arias\source\repos\Patterns\Proxy02\obj\Debug\Proxy02.csprojAssemblyReference.cache
+C:\Users\Javier Arias\source\repos\Patterns\Proxy02\obj\Debug\Proxy02.exe
+C:\Users\Javier Arias\source\repos\Patterns\Proxy02\obj\Debug\Proxy02.pdb
